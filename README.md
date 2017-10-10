@@ -4,7 +4,7 @@ A helper service to work with ATM state logical levels, used by [Electron ATM](h
 
 ## To Use:
 
-```
+```javascript
 >var LevelsService = require('atm-state-levels');
 >var l = new LevelsService();
 >l.getLevelSize(17)
