@@ -1,12 +1,12 @@
 {
   "name": "atm-state-levels",
-  "version": "1.0.0",
-  "description": "ATM State Levels Service",
+  "version": "1.0.1",
+  "description": "ATM State Levels service",
   "main": "levels.js",
   "scripts": {
     "test": "istanbul cover jasmine"
   },
-  "repository": "https://github.com/timgabets/atm-levels",
+  "repository": "https://github.com/timgabets/atm-state-levels",
   "keywords": [
     "ATM",
     "states",
