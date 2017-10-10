@@ -1,6 +1,6 @@
 {
   "name": "atm-state-levels",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ATM State Levels service",
   "main": "levels.js",
   "scripts": {
