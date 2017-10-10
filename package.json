@@ -1,0 +1,27 @@
+{
+  "name": "atm-state-levels",
+  "version": "1.0.0",
+  "description": "ATM State Levels Service",
+  "main": "levels.js",
+  "scripts": {
+    "test": "istanbul cover jasmine"
+  },
+  "repository": "https://github.com/timgabets/atm-levels",
+  "keywords": [
+    "ATM",
+    "states",
+    "levels"
+  ],
+  "author": {
+    "name": "Tim Gabets",
+    "email": "tim@gabets.ru",
+    "url": "http://gabets.ru/"
+  },
+  "license": "LGPL-2.1",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.8.0"
+  },
+  "dependencies": {
+  }
+}
